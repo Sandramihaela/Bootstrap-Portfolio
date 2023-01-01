@@ -1,7 +1,7 @@
 # Bootstrap-Portfolio
 
 ## Description
-Here is my new personal portfolio/ landing page to showcase my skills and talents,This webpage contains a "Home", "Projects", "About me" and a "Blog" section,you can select from the navigation bar and it will take you to the specific section. It also contains a profile picture on the right hand side and a "Contact" button as well as a "Download CV" button.
+Here is my new personal portfolio/ landing page to showcase my skills and talents,This webpage contains a "Home", "Work","skills", "About me" and a "Blog" section,you can select from the navigation bar and it will take you to the specific section. It also contains a profile picture on the right hand side and a "Contact" button as well as a "Download CV" button.
 When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to the screen resolution.
   This page will be updated as I learn more skills and complete new projects throughout the bootcamp.
   
