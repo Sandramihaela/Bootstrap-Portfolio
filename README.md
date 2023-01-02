@@ -8,6 +8,11 @@ When the page is resized or viewed on various screens and devices then the layou
   (UPDATE 1/1/2023)I have added some Bootstrap 4 elements: NavBar, Jumbotron, Cards and Footer.
 
 
+
+# Deployed Application Link: https://sandramihaela.github.io/Bootstrap-Portfolio/
+
+
+
 # Installation
 N/A
 
